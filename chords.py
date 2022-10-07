@@ -5,4 +5,4 @@ notes_flat = ['C','Db','D','Eb','E','F','Gb','G','Ab','A','Bb','B']
 def getMajorScale(tonic):
     ind_tonic_1 = notes_sharp.find(tonic)
     ind_tonic_2 = notes_flat.find(tonic)
-    scale_1 = 
+    scale_1 = 'CDEFGAB'
