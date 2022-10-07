@@ -8,4 +8,4 @@ def getMajorScale(tonic):
     scale_1 = 'CDEFGAB'
     return scale_1
     
-print('hello world!')
+print('hello!')
