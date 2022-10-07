@@ -9,3 +9,6 @@ def getMajorScale(tonic):
     return scale_1
     
 print('hello!')
+print('salut')
+print('ciao')
+print('wwwqwq')
