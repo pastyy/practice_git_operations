@@ -6,3 +6,6 @@ def getMajorScale(tonic):
     ind_tonic_1 = notes_sharp.find(tonic)
     ind_tonic_2 = notes_flat.find(tonic)
     scale_1 = 'CDEFGAB'
+    return scale_1
+    
+print('hello world!')
